@@ -11,4 +11,7 @@ REMONTER LE DOSSIER pdchoco
 ### Pour faire des "if":   
 ![screenshot4](https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screenshot4.png)   
 ### Pour faire des liens directs:   
-![screenrecording1](https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screenrecording1.gif)   
+![screenrecording1](https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screenrecording1.gif)  
+### Pour faire des liens flip flop:   
+![screenrecording2](https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screenrecording2.gif)   
+
