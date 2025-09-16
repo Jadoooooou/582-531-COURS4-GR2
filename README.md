@@ -30,5 +30,8 @@ ENSUITE, DOUBLE-CLICK POUR CRÉER UNE PISTE -> FX -> VSTi -> VSTi: Wavetable Soc
 ![screenshot8](https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screenshot8.png)  
 ![screenrecording3](https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screenrecording3.gif)  
 ## Pour lier le OSC à l'angle:   
-cc / 127 = angle / 4095 -> cc = angle / 4095 * 127
+cc / 127 = angle / 4095 -> cc = angle / 4095 * 127     
 ![screenshot9](https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screenshot9.png)  
+## Pour lisser les données:   
+![screenshot10](https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screenshot10.png)  
+
