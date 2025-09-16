@@ -1,2 +1,2 @@
 ### Comment envoyer un OSC dans Reaper:
-(https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screenshot1.png)
+![screenshot1](https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screenshot1.png)
