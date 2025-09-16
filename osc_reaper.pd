@@ -1,0 +1,17 @@
+Pd 0.56-0 on Windows NT amd64
+--------------------------------------------------------------------------------
+pdfontloader loaded DejaVuSansMono.ttf
+pdfontloader loaded DejaVuSansMono-Bold.ttf
+pdfontloader loaded DejaVuSansMono-Oblique.ttf
+pdfontloader loaded DejaVuSansMono-BoldOblique.ttf
+------------------ done with main ----------------------
+connection from 'pd' to 'pd-gui' on 127.0.0.1:62809
+Tk 8.6.10
+police détectée : DejaVu Sans Mono
+police utilisée?: DejaVu Sans Mono bold
+Chargement du plugin : C:/Program Files/Pd/tcl/pd_deken.tcl
+[deken] Plateforme détectée : Windows-amd64-float32
+Chargement du plugin : C:/Program Files/Pd/tcl/pd_docsdir.tcl
+Pd documents directory: C:/Users/2366906/Documents/Pd
+[deken] Plateforme re-détectée : Windows-amd64-float32
+la fenêtre Pd a filtré 16 lignes
