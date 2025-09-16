@@ -35,5 +35,5 @@ cc / 127 = angle / 4095 -> cc = angle / 4095 * 127
 ## Pour lisser les données:   
 ![screenshot10](https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screenshot10.png)  
 # Pd final:   
-![screenshot_final](https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screenshot_final.png)  
+![screenshot_final](https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screnshot_final.png)  
 
