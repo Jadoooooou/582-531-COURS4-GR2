@@ -19,6 +19,7 @@ REMONTER LE DOSSIER pdchoco
 TÉLÉCHARGER LE DOSSIER Wavetable.dll    
 DANS Option -> Preferences -> VST -> Edith path list -> Re-scan   
 ENSUITE, DOUBLE-CLICK POUR CRÉER UNE PISTE -> FX -> VSTi -> VSTi: Wavetable SocaLabs   
+   
 ![screenshot6](https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screenshot6.png)   
 ### Pour contrôler un pluggin par OSC:   
 ![screenshot7](https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screenshot7.png)  
