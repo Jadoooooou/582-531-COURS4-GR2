@@ -15,4 +15,8 @@ REMONTER LE DOSSIER pdchoco
 ### Pour faire des liens flip flop:   
 ![screenrecording2](https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screenrecording2.gif)   
 ![screenshot5](https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screenshot5.png)   
-
+### Pour importer un VST:   
+TÉLÉCHARGER LE DOSSIER Wavetable.dll    
+DANS Option -> Preferences -> VST -> Edith path list -> Re-scan   
+ENSUITE, DOUBLE-CLICK POUR CRÉER UNE PISTE -> FX -> VSTi -> VSTi: Wavetable SocaLabs   
+![screenshot6](https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screenshot6.png)   
