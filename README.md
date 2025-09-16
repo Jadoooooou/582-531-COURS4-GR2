@@ -4,3 +4,6 @@
 ![screenshot2](https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screenshot2.png)
 ### Pour communiquer avec le device:   
 ![screenshot2](https://github.com/Jadoooooou/582-531-COURS4-GR2/blob/main/COMPREHENSION_medias/screenshot3.png)
+TRÈS IMPORTANT DE TÉLÉCHARGER LE DOSSIER PDCHOCO -> LE METTRE DANS Pd -> externals  
+ENSUITE, DANS Tools -> Installer -> Comport   
+REMONTER LE DOSSIER pdchoco
